@@ -1,1 +1,3 @@
-Project ini berisi fitur terbaru.
+Project ini dibuat untuk praktikum CBSE.
+
+Update kecil untuk keperluan review tambahan.
